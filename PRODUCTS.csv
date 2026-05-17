@@ -1,0 +1,98 @@
+product_id,category_id,product_name,avg_cost_price,avg_selling_price,stock_qty,times_sold,is_active
+1,1,Steering Wheel Cover Leather,173.22,337.46,13,35,True
+2,1,Car Phone Holder Magnetic,212.32,402.99,19,70,True
+3,1,Sunshade Foldable Front,149.72,295.89,33,130,True
+4,1,Seat Back Organizer,345.72,581.24,11,163,False
+5,1,Trunk Organizer Bag,430.71,666.84,16,164,True
+6,1,Car Fragrance Diffuser Set,110.59,206.92,54,144,True
+7,1,Dashboard Non-Slip Mat,83.32,176.7,19,140,True
+8,1,Car Key Cover Honda,74.14,147.16,55,33,True
+9,1,Car Key Cover Toyota,76.29,144.74,5,92,True
+10,1,Gear Knob Leather Wrapped,215.16,393.27,71,105,True
+11,2,Car Shampoo 500ml,193.71,333.92,30,42,True
+12,2,Dashboard Polish Spray,228.33,371.07,3,46,True
+13,2,Microfiber Cloth Set 3pcs,141.82,287.89,31,69,True
+14,2,Tire Shine Spray 400ml,152.89,302.85,4,121,True
+15,2,Glass Cleaner 500ml,124.24,245.38,39,59,True
+16,2,Car Wax Polish Paste,376.15,581.45,35,18,True
+17,2,Foam Applicator Pads 5pcs,96.93,170.86,51,174,True
+18,2,Interior Cleaner Spray,170.74,351.37,14,67,True
+19,2,Leather Conditioner 250ml,277.07,495.36,13,153,True
+20,2,Bug & Tar Remover 500ml,187.7,380.14,77,131,True
+21,3,Car Battery 60Ah AGM,8413.04,11030.68,5,182,True
+22,3,Car Battery 45Ah Standard,6428.55,9034.16,25,94,True
+23,3,LED Headlight Bulb H4 Pair,1231.37,1894.9,79,81,True
+24,3,LED DRL Strip 30cm Pair,359.35,634.18,64,80,True
+25,3,Car Fuse Set 60pcs,171.12,327.39,70,33,True
+26,3,Alternator Belt Universal,404.42,690.8,22,158,True
+27,3,Horn Button Steering,238.41,468.0,38,74,True
+28,3,Relay Switch Universal,118.88,225.41,41,120,True
+29,3,Car Charger Dual USB 2.4A,186.71,380.82,21,169,True
+30,3,Voltage Stabilizer 12V,630.57,1086.92,42,24,True
+31,4,Side Mirror Cover Left Universal,424.61,749.18,28,51,True
+32,4,Side Mirror Cover Right Universal,419.24,790.42,78,197,True
+33,4,Front Bumper Guard Chrome,1237.7,2198.27,24,184,True
+34,4,Rear Bumper Guard Chrome,1163.44,2107.93,0,193,True
+35,4,Door Edge Guard Protector,293.62,513.71,28,46,True
+36,4,Mud Flaps Set of 4,373.38,587.13,71,64,True
+37,4,Wind Deflector Visor Toyota,803.98,1411.55,59,171,True
+38,4,Wind Deflector Visor Honda,840.32,1476.84,56,157,True
+39,4,Roof Spoiler Universal ABS,1595.33,2688.69,70,115,True
+40,4,Hood Protector Bonnet Guard,863.6,1630.84,33,193,True
+41,5,Engine Oil Filter Toyota,357.1,600.44,66,125,True
+42,5,Engine Oil Filter Honda,337.22,604.35,36,61,True
+43,5,Air Filter Honda City,382.8,719.01,17,39,True
+44,5,Air Filter Toyota Corolla,413.79,744.41,8,107,True
+45,5,Cabin Air Filter Universal,491.16,913.24,26,108,True
+46,5,Spark Plug NGK Set 4pcs,1214.53,2093.23,2,196,True
+47,5,Wiper Blade Set Front Pair,589.44,1107.57,38,193,True
+48,5,Coolant Antifreeze 1L,394.27,687.71,68,192,True
+49,5,Brake Fluid DOT4 500ml,240.92,439.12,62,57,True
+50,5,Power Steering Fluid 1L,264.99,487.76,51,186,True
+51,5,Clutch Plate Suzuki Mehran,1663.77,3152.52,79,137,True
+52,5,Clutch Plate Honda Civic,2250.25,3606.19,3,22,True
+53,5,Fuel Filter Universal,441.3,767.71,6,67,True
+54,5,Timing Belt Toyota,2600.8,4604.47,48,72,True
+55,5,Radiator Cap Universal,184.62,361.99,10,121,True
+56,6,Seat Cover Full Set PU Leather,2867.26,4988.99,44,58,True
+57,6,Seat Cover Full Set Fabric,1713.42,2985.13,3,64,True
+58,6,Floor Mat Set 5pcs Rubber,821.69,1412.54,16,122,True
+59,6,Floor Mat Set 5pcs Carpet,587.41,1065.57,32,197,True
+60,6,Steering Cover Suede,262.77,468.63,14,200,True
+61,6,Dashboard Cover Toyota Corolla,708.49,1268.55,3,80,True
+62,6,Dashboard Cover Honda City,710.31,1255.54,25,20,True
+63,6,Neck Pillow Car Pair,406.43,662.86,38,176,True
+64,6,Lumbar Support Cushion,351.83,634.02,5,89,True
+65,6,Rear Window Curtain Set,316.78,553.92,43,4,True
+66,7,Shock Absorber Front Toyota,3719.28,5966.18,46,163,True
+67,7,Shock Absorber Rear Toyota,3211.13,5615.85,22,188,True
+68,7,Shock Absorber Front Honda,3490.76,5945.88,68,199,True
+69,7,Ball Joint Lower Toyota,1267.53,2197.23,34,83,True
+70,7,Tie Rod End Left Universal,936.07,1615.65,57,63,True
+71,7,Tie Rod End Right Universal,899.18,1560.8,43,8,True
+72,7,Brake Pad Set Front Ceramic,1461.68,2738.44,45,67,True
+73,7,Brake Pad Set Rear Ceramic,1290.27,2550.55,35,143,True
+74,7,Wheel Bearing Front Toyota,1815.89,2987.3,52,126,True
+75,7,Engine Mount Honda City,1256.24,1980.36,62,115,True
+76,7,Gear Box Oil 85W-140 1L,431.02,726.43,31,79,True
+77,7,Drive Shaft CV Joint Universal,4857.57,7855.02,44,109,True
+78,8,Auto Paint White Pearl 400ml,465.15,817.93,58,70,True
+79,8,Auto Paint Black Metallic 400ml,498.65,903.65,40,31,True
+80,8,Auto Paint Silver 400ml,467.18,774.97,24,56,True
+81,8,Rust Converter Spray 400ml,270.28,472.04,67,153,True
+82,8,Anti-Rust Primer Spray,303.59,531.23,29,93,True
+83,8,Clear Coat Lacquer Spray,408.84,685.08,35,12,True
+84,8,Touch Up Paint Pen White,158.84,269.66,16,164,True
+85,8,Touch Up Paint Pen Black,149.27,267.75,73,73,True
+86,8,Body Filler Putty 1kg,374.7,618.07,6,65,True
+87,8,Adhesion Promoter Spray,270.24,529.42,51,126,True
+88,9,Tyre 175/65 R14 Yokohama,10182.67,13186.95,19,145,True
+89,9,Tyre 185/65 R15 Bridgestone,10852.47,16722.05,71,196,True
+90,9,Tyre 195/55 R16 Michelin,13393.11,19839.62,66,98,True
+91,9,Hubcap Set 14 inch 4pcs,1213.18,1970.71,54,79,True
+92,9,Hubcap Set 15 inch 4pcs,1334.54,2302.9,12,196,True
+93,9,Wheel Nut Set 20pcs,331.73,583.12,20,62,False
+94,9,Tyre Valve Caps Set 4pcs,81.2,145.62,57,177,True
+95,9,Wheel Balancing Weights 100g,126.9,197.39,36,180,True
+96,9,Alloy Wheel 14 inch Single,5579.01,9382.92,33,161,True
+97,9,Alloy Wheel 15 inch Single,6213.8,9984.01,14,140,True
